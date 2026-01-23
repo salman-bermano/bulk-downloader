@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/salman-bermano/bulk-downloader/refs/heads/main/picture.png" width="621">
+
 # bulk downloader
 download files in bulk.
 
